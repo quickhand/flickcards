@@ -1,0 +1,9 @@
+export const ADD_LOCATION = "flickcards/ADD_LOCATION";
+export const SET_LOCATIONS = "flickcards/SET_LOCATIONS";
+export const MOVE_LOCATION = "flickcards/MOVE_LOCATION";
+export const ADD_CARD = "flickcards/ADD_CARD";
+export const REMOVE_CARD = "flickcards/REMOVE_CARD";
+export const CLEAR_CARDS = "flickcards/CLEAR_CARDS";
+export const SET_CARD_TRANSITIONING = "flickcards/SET_CARD_TRANSITIONING";
+export const MOVE_CARD = "flickcards/MOVE_CARD";
+export const SET_CARD_PARAMETERS = "flickcards/SET_CARD_PARAMETERS";
